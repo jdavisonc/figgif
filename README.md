@@ -36,7 +36,7 @@ Default response format must be JSON.
 
 * Java 8
 * Spring-Boot
-* HSQLDB or any other memory database
+* H2 or HSQLDB database
 * Maven
 * [Optional] Docker image
 
