@@ -18,8 +18,10 @@ Default response format must be JSON.
 * Create an endpoint to delete a GIF given an ID.
 * Create an endpoint to download GIF file.
 * Create an endpoint to create Tag.
+* Create an endpoint to list Tags.
 * Create an endpoint to delete Tag.
 * Create an endpoint to create Reaction.
+* Create an endpoint to list Reactions.
 * Create an endpoint to delete Reaction.
 * Create an endpoint to search GIFs by description.
 * Create an endpoint to search GIFs by tag.
