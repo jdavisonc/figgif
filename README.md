@@ -26,6 +26,7 @@ Default response format must be JSON.
 * Create an endpoint to search GIFs by description.
 * Create an endpoint to search GIFs by tag.
 * Create an endpoint to serach GIFs by reaction.
+* Create an endpoint to list all the GIFs that have the same tags as a given GIF
 
 ## Optional Tasks
 
