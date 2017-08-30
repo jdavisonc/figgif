@@ -28,12 +28,13 @@ Default response format must be JSON.
 * Create an endpoint to serach GIFs by reaction.
 * Create an endpoint to list all the GIFs that have the same tags as a given GIF
 
-## Optional Tasks
+## Tasks
 
-* [Optional] Create one integration test.
-* [Optional] Create one unit test.
+* Create at least one integration test.
+* Create unit tests.
 * [Optional] Health checks
 * [Optional] Run with Docker
+
 
 ## SETUP
 
